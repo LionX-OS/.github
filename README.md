@@ -10,7 +10,7 @@ To transform Morocco from a consumer of technology into a creator. **LionX** isn
 
 ## 🛠 The Project
 
-### 💻 [LionX OS](https://github.com/LionX-Morocco/lionx-os)
+### 💻 [LionX OS](https://github.com/LionX-OS/LionX)
 The flagship Moroccan Linux distribution. Optimized for performance, security, and localized user experience.
 - **Status:** In Development
 - **Core:** Debian based
