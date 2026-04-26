@@ -1,26 +1,53 @@
-# 🦁 LionX Morocco
-### Empowering the Moroccan Tech Revolution through Open-Source Innovation
+# 🦁 LionX OS
 
-Welcome to the official home of **LionX**, Morocco's first dedicated Linux distribution ecosystem. We are a collective of developers, students, and tech enthusiasts committed to building a sovereign digital future for our country.
+> A Moroccan-built Linux distribution focused on performance, simplicity, and control.
 
----
-
-## 🚀 Our Mission
-To transform Morocco from a consumer of technology into a creator. **LionX** isn't just an Operating System; it's a movement to localize software development, support the Moroccan educational curriculum, and provide high-performance tools for the next generation of Moroccan Tech consumers.
-
-## 🛠 The Project
-
-### 💻 [LionX OS](https://github.com/LionX-OS/LionX)
-The flagship Moroccan Linux distribution. Optimized for performance, security, and localized user experience.
-- **Status:** In Development
-- **Core:** Debian based
+LionX OS is a custom Linux distribution developed by a dedicated Moroccan team. The project aims to deliver a clean, optimized, and fully customized user experience built on solid open-source foundations.
 
 ---
 
-*By LionX devteam from Morocco to the world*
+## 🚀 Mission
+
+LionX OS is designed to push forward a simple idea: **build technology locally, with full control over the experience.**
+
+The project focuses on:
+
+- Creating a refined and consistent system
+- Delivering strong performance with minimal overhead
+- Providing a clean, distraction-free environment
+- Building a distinctive identity beyond traditional Linux distributions
+
+> LionX OS is not just another distro — it's a focused effort to craft a system that feels **intentional, fast, and modern**.
+
+---
+
+## 🛠 Project Overview
+
+### 💻 LionX OS
+
+A custom Linux distribution engineered for performance and simplicity.
+
+| Property | Details |
+|----------|---------|
+| **Base** | Debian |
+| **Desktop Environment** | GNOME |
+| **Philosophy** | Minimal, fast, and customizable |
+| **Status** | 🚧 In Development |
+
+---
+
+## 🔒 Access
+
+LionX OS is currently a **closed project** developed by a selected team. Public releases and broader access may be considered in the future.
+
+---
+
+## 📌 About
+
+Developed by the **LionX Dev Team** 🇲🇦
 
 ---
 <p align="center">
-  <img src="https://github.com/LionX-OS/.github/blob/main/1.png" alt="LionX Morocco Banner" width="100%">
+  <img src="https://github.com/LionX-OS/.github/blob/main/banner.png" alt="LionX OS Banner" width="100%">
 </p>
 
