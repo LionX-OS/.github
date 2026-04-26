@@ -1,5 +1,9 @@
 # 🦁 LionX OS
 
+<p align="center">
+  <img src="https://github.com/LionX-OS/.github/blob/main/banner.png" alt="LionX OS Banner" width="50%">
+</p>
+
 > A Moroccan-built Linux distribution focused on performance, simplicity, and control.
 
 LionX OS is a custom Linux distribution developed by a dedicated Moroccan team. The project aims to deliver a clean, optimized, and fully customized user experience built on solid open-source foundations.
@@ -45,9 +49,3 @@ LionX OS is currently a **closed project** developed by a selected team. Public 
 ## 📌 About
 
 Developed by the **LionX Dev Team** 🇲🇦
-
----
-
-<p align="center">
-  <img src="https://github.com/LionX-OS/.github/blob/main/banner.png" alt="LionX OS Banner" width="100%">
-</p>
