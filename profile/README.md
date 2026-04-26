@@ -1,6 +1,6 @@
 # 🦁 LionX OS
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/LionX-OS/.github/blob/main/banner.png" alt="LionX OS Banner" width="50%">
 </p>
 
